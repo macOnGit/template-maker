@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "template_name": "first template",
+        "template_text": "Hi there",
+        "template_author": "Fred"
+    },
+    {
+        "id": 2,
+        "template_name": "second template",
+        "template_text": "Good Morning",
+        "template_author": "Anonymous"
+    }
+]

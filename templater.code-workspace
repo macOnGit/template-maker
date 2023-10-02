@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[html]": {
+			"editor.tabSize": 2
+		},
+		"[typescript]": {
+			"editor.tabSize": 2
+		}
+	}
+}
